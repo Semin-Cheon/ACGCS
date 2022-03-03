@@ -5,6 +5,6 @@
 This MATLAB script generates 3D atom positions of a crystal based on primitive vectors of your own.
 
 I made this script with an idea from the MATLAB code: 'create_FePt_model_sized.m'
-which is Written by Yongsoo Yang, the Principal invesgator of MDAIL. (The code, metioned above, is based on unit cell.)
+which is Written by Yongsoo Yang, the Principal invesgator of MDAIL (The code, metioned above, is based on unit cell).
 
 Author: Semin Cheon. MD/Ph.D integrated course. MDAIL(KAIST). chsm0338@kaist.ac.kr
