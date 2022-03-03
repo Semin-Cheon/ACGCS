@@ -9,4 +9,5 @@ which is Written by Yongsoo Yang, the Principal invesgator of MDAIL (The code, m
 
 Author: Semin Cheon. MD/Ph.D integrated course. MDAIL(KAIST). chsm0338@kaist.ac.kr
 
-# SubFunction: check.m - trigger beep sound for cheking algorithm status. 
+# SubFunction:
+check.m - trigger beep sound for cheking algorithm status. 
